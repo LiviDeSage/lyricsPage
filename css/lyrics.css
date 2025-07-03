@@ -76,3 +76,9 @@
         border: 2px solid rgb(204, 140, 140);
        border-radius: 10px;
         text-align: center;}
+
+        .container_5 span {
+
+          font-style: italic; color: rgb(2, 41, 41);
+                 background-color: rgb(14, 3, 3);
+        }
